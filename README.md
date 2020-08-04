@@ -1,5 +1,4 @@
 # ATLAS-classifier
-Project Summary: 
 As part of the Ben Gurion University's Heavy Ion's Research Laboratory, 
 the physicists try to explore the first moments of the universe. 
 In their research, they use the particle accelerator experiment - 
