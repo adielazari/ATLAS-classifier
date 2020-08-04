@@ -1,0 +1,2 @@
+# ATLAS-classifier
+Our final project in Data Science was on particles classifier with data set from ATLAS detector of the LHC particle accelerator in Cern.  We researched a lot of non-domain topics. we work on Linux environment used low-level languages like C ++ and ROOT for retrieval and preparation of data, and used Python language for machine learning to create a trained model to predict truth data.
